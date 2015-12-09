@@ -16,4 +16,6 @@ this application reads the info directly from a xml database file located in app
 and the new xml database uploads files are validated before replace/update a old database, aditionaly must be set
 a upload folder to 777 permissions, the php environment server should allow short php tags (<? ?>, <?= ?>)
 
+To start application see a documentation web page in the index.php file from browser
+
 Developed by Hansel Ramos, december 9th/ 2015
